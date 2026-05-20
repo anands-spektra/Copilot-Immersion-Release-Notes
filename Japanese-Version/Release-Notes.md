@@ -52,3 +52,40 @@ Screenshots were updated to reflect the latest UI in the following steps:
 
 
 </details>
+
+
+
+
+# Release Notes
+
+<details>
+  <summary>15-May-2026</summary>
+
+## Release Date : 15-May-2026
+
+### Summary of Changes
+
+Udated the minor instruction for the improve clearity.
+
+### Infrastructure Changes
+
+### Content Changes
+
+- Added the Note in the Excercise 04- Task-3- Step-1
+
+### Screenshot Updates
+
+- Only updated the minor instruction to improve clearity.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-15
+
+### Testing Scope 
+
+- Performed end to end lab, validated lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+------------
+
+
+</details>
